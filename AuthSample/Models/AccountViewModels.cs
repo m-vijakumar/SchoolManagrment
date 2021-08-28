@@ -63,6 +63,7 @@ namespace AuthSample.Models
         public bool RememberMe { get; set; }
     }
 
+    //modified roles
     public class RegisterViewModel
     {
         [Required]

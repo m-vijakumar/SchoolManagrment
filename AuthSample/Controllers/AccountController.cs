@@ -62,7 +62,7 @@ namespace AuthSample.Controllers
             return View();
         }
 
-        //
+        // changed  email to usename
         // POST: /Account/Login
         [HttpPost]
         [AllowAnonymous]

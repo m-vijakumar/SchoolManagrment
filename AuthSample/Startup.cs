@@ -15,6 +15,7 @@ namespace AuthSample
             createRolesandUsers();
         }
 
+        //created roles
         public void createRolesandUsers()
         {
             var context = new ApplicationDbContext();
